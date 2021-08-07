@@ -19,7 +19,7 @@ from wechaty import (
 )
 
 os.environ['WECHATY_PUPPET'] = 'wechaty-puppet-service'
-os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'puppet_padlocal_9af8540f48cf470b926fc3d39863522a'
+os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'puppet_padlocal_*******'
 
 def transform_video_to_image(video_file_path, img_path,background):
     '''
