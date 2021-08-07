@@ -53,6 +53,7 @@ pip install paddlepaddle-gpu
 还有安装一系列的组件。
 
 然后运行下面代码
+### 备注：运行前，先在```wechatyrun.py``中所有地址改为自己运行环境的所有地址
 ### Windows
 
 ```Python
