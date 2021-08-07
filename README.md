@@ -41,6 +41,18 @@ wechaty/wechaty:latest
 
 
 然后下面的代码，在任意环境部署都可以。
+
+安装PaddlePaddle
+```
+# CPU
+pip install paddlepaddle
+# GPU
+pip install paddlepaddle-gpu
+```
+
+还有安装一系列的组件。
+
+然后运行下面代码
 ### Windows
 
 ```Python
