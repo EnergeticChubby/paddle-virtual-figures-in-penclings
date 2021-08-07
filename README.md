@@ -1,7 +1,9 @@
 # 铅笔画下的虚拟形象
 在看到B站一些UP主，都是用虚拟AI合成的形象与观众互动，所以我也想用飞桨来自制一个属于自己的虚拟形象，也让大家可以在微信中，生成自己的虚拟形象。
 
-此项目分为两个版本，AI Studio测试版本和Wechaty版本。此项目采用人脸检测模型([face_landmark_localization](https://www.paddlepaddle.org.cn/hubdetail?name=face_landmark_localization))来实现。AIStudio项目地址([https://aistudio.baidu.com/aistudio/projectdetail/2205727](https://aistudio.baidu.com/aistudio/projectdetail/2205727))
+此项目分为两个版本，AI Studio测试版本和Wechaty版本。此项目采用人脸检测模型([face_landmark_localization](https://www.paddlepaddle.org.cn/hubdetail?name=face_landmark_localization))来实现。
+AIStudio项目地址([https://aistudio.baidu.com/aistudio/projectdetail/2205727](https://aistudio.baidu.com/aistudio/projectdetail/2205727))
+B站视频地址([https://www.bilibili.com/video/BV1kv411K719](https://www.bilibili.com/video/BV1kv411K719))
 
 先看成品（因为GIF大于1M，没法上传，所以只截取一帧的画面进行展示）
 
